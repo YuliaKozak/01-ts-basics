@@ -7,4 +7,4 @@ getFirstElement<string>(["a", "b", "c"]);
 getFirstElement<boolean>([true, false, true]);
 
 
-getFirstElement<number>([1, "a", true]);
+
