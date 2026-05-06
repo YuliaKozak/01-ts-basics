@@ -5,7 +5,3 @@ const isOnline: boolean = true;
 console.log(`Name: ${name}`);
 console.log(`Age: ${age}`);
 console.log(`Online: ${isOnline}`);
-Завдання:
-Додай до кожної змінної явну типізацію.
-Переконайся, що TypeScript правильно визначає тип, і не видає помилку.
-Залиш назви змінних і їх значення без змін.
